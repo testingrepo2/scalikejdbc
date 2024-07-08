@@ -4,7 +4,7 @@
 
 ## Just Write SQL And Get Things Done 💪
 
-[**ScalikeJDBC**](https://scalikejdbc.org/) seamlessly wraps JDBC APIs, offering intuitive and highly flexible functionalities. With QueryDSL, your code becomes inherently type-safe and reusable. This library is not just practical; it’s production-ready. Utilize this library confidently in your real-world projects.
+[**ScalikeJDBC**](https://scalikejdbc.org/) seamlessly wraps JDBC APIs, offering intuitive and highly flexible functionalities. With QueryDSL, your code becomes inherently type-safe and reusable. This library is not just practical; it’s production-ready. Utilize this library confidently in your real-world projects. 
 
 ## Getting Started
 
